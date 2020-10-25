@@ -1,0 +1,4 @@
+# DatepickerSpinnerModeExample
+
+DialogのSpinnerModeはもう使えないかと思っていましたが、
+このようにすることで利用できました。
